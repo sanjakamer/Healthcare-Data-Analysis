@@ -25,8 +25,3 @@ Please feel free to ask questions or provide input.
 1. claimdetails2008.csv
 2. claims2008.csv
 
-Project Structure
-Patient
-claims
-claimdetails
-claimdiag
