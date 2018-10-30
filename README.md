@@ -14,11 +14,11 @@ I will be adding more tutorials in the future.
 Please feel free to ask questions or provide input.
 
 
-        https://github.com/sanjakamer/Healthcare-Data-Analysis/blob/master/new_patients.ipynb
+        
       
 ### Table of content:
 1. [New patient analysis](https://github.com/sanjakamer/Healthcare-Data-Analysis/blob/master/new_patients.ipynb)
-2. Health Insurance Claims Analysis with Pandas
+1. [Health Insurance Claims Analysis with Pandas](https://github.com/sanjakamer/Healthcare-Data-Analysis/blob/master/Claims%20Analysis.ipynb)
 
 
 ## Data Files
