@@ -69,11 +69,8 @@ zipcode
         <li><a href="#C316">3.1.6 Patient Visits by Gender</a></li>
         <li><a href="#C317">3.1.7 Patients by City</a></li>
         <li><a href="#C318">3.1.8 Patients by Zipcode</a></li>
-        
-        
     </ul>
 </ul>
-
 <ul>
   <li><a href="#D1">4.1 Revenues and Insurance  Statistics</a></li>
     <ul>
@@ -81,9 +78,5 @@ zipcode
         <li><a href="#D411">4.1.2 Descriptive Statistics</a></li>
         <li><a href="#D412">4.1.3 Claims by Status Category </a></li>
         <li><a href="#D413">4.1.4 Patient Assignments by Insurance</a></li>
-       
-        
     </ul>
-
 </ul>
-***
